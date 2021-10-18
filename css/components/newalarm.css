@@ -1,0 +1,11 @@
+.newalarm {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+}
+.find-alarm {
+  position: absolute;
+  right: 15px;
+  top: 35px;
+}
